@@ -10,6 +10,7 @@
 
 **Hobbies and interests:**
 > - Jogo nas horas vagas; Minecraft (Minigames) e Valorant;
+> - Sou AVGEEK, quando não estou programando, estou voando em simulador de voo. :)
 > - Minha comida favorita é Arroz com Stronoff;
 > - Eu atualmente ainda estudo, mas em breve quero seguir na carreira militar; Espcex ou ESA.
 > - Não quero seguir na carreira de programação, faço dela um passatempo atualmente.
