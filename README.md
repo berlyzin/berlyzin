@@ -16,11 +16,11 @@
 ---
 
 ### 🎯 O que eu faço?
-✅ Estrutura completa de servidores (canais, cargos, permissões)  
-✅ Configuração de segurança do servidor (configuração do automod do Discord, configuração completa de bots para seu servidor e etc).
-✅ Integração e automação com bots;
-✅ Design básico e identidade visual para a sua comunidade;
-✅ Consultoria e otimização de servidores já existentes.
+> - ✅ Estrutura completa de servidores (canais, cargos, permissões)
+> - ✅ Configuração de segurança do servidor (configuração do automod do Discord, configuração completa de bots para seu servidor e etc).
+> - ✅ Integração e automação com bots;
+> - ✅ Design básico e identidade visual para a sua comunidade;
+> - ✅ Consultoria e otimização de servidores já existentes.
 
 ---
 
